@@ -1,0 +1,7 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: We compete
+description: |
+---

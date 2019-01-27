@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: We program robots
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Because building a robot is not enough(it has to be smart, too), we program our robots in Java using the [FTC SDK](https://github.com/ftctechnh/ftc_app).
+  
+  Programming these robots involves programming an autonomous period(the robot uses sensors and other tools to drive on its own to achieve certain objectives) and a driver-controlled period(the robot is controlled by two drivers).

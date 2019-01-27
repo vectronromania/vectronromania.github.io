@@ -1,0 +1,9 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: We design & print custom 3D parts
+description: |
+---
+
+  Sometimes, we need to use custom parts to enhance our robot's functionality. That's why we have a 3D printer and a skilled 3D part designer to make custom designs and print them.

@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: robot.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: We build robots
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  The competition revolves around building a new robot every season, because the game theme changes so it needs to adapt to diffrent challenges.
