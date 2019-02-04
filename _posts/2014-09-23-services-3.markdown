@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: drive.JPG
 category: Services
 title: We drive robots
 description: |

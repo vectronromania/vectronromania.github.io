@@ -1,7 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: compete.JPG
 category: Services
 title: We compete
 description: |
 ---
+
+  We paticipate in the [First Tech Challenge Romania](https://natieprineducatie.ro), aiming for the best performance possible.

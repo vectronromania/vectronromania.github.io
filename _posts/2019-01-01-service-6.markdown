@@ -1,7 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: team.jpeg
 category: Services
 title: We enjoy being a team and learning together
 description: |
 ---
+
+  Competitions and deadlines aside, we enjoy [STEM education](https://www.ed.gov/Stem), learning new things and being a team while doing everything mentioned above.

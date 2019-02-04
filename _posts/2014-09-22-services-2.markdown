@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: code.png
 category: Services
 title: We program robots
 description: |
